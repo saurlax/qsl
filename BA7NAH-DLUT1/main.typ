@@ -9,7 +9,7 @@
 #page(
   background: image("bg.jpg", width: 100%, height: 100%, fit: "cover"),
 )[
-  #set text(font: "Jersey 10", 16pt, fill: white)
+  #set text(font: "Jersey 10", 20pt, fill: white, stroke: 0.5pt)
   #text(size: 60pt)[
     BA7NAH
   ]
@@ -46,6 +46,6 @@
 
     Dalian University of Technology, China, PM09vc \
     CQ Zone: 24, ITU Zone: 44 \
-    hi\@saurlax.com
+    Photographed by BH2XVO
   ]
 ]

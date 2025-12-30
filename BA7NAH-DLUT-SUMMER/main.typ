@@ -45,7 +45,7 @@
     )
 
     Dalian University of Technology, China, PM09vc \
-    CQ ZONE: 24, ITU ZONE: 44 \
+    CQ Zone: 24, ITU Zone: 44 \
     hi\@saurlax.com
   ]
 ]
